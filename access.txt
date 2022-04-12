@@ -1,0 +1,5 @@
+secret	6aPtfePNQnFlDkHNwKNYNOLNs0ilHA
+
+appId  6_mLKSNTVppJFD4IuLnPyw
+
+newsApi cc3b154467694d8daca6f2cd5817f288
